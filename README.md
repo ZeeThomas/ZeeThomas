@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Zahria Thomas
 
 <!--
 **ZeeThomas/ZeeThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is pronounced ✨*Zahh-ree-ah*✨ But you can call me Zee!
+- Senior Computer Science Major at Florida Polytechnic University 
+- 🌱 I’m currently learning React & Typescript
+- 🔭 I’m currently working on [RepLog](https://github.com/ZeeThomas/RepLogApp) a React app to track your workout progress
+- I'm looking for Early Career jobs in Software Development, Frontend Development, and Full Stack
+- I'm constantly growing and learning as Software Engineer and I feel like my Github shows my growth and evolution very clearly. Not everything is perfect, but it is progressing every commit at a time. 
+
+
