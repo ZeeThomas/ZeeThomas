@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is pronounced ✨*Zahh-ree-ah*✨ But you can call me Zee!
 - Senior Computer Science Major at Florida Polytechnic University 
 - 🌱 I’m currently learning React & Typescript
-- 🔭 I’m currently working on [RepLog](https://github.com/ZeeThomas/RepLogApp) a React app to track your workout progress
+- 🔭 I’m currently working on [Azure Haven Resort](https://github.com/ZeeThomas/azurehavenresort) a React/Typescript website that give users the ultimate booking experience. 
 - I'm looking for Early Career jobs in Software Development, Frontend Development, and Full Stack
 - I'm constantly growing and learning as Software Engineer and I feel like my Github shows my growth and evolution very clearly. Not everything is perfect, but it is progressing every commit at a time. 
 
