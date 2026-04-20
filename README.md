@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is pronounced ✨*Zahh-ree-ah*✨ But you can call me Zee!
-- Senior Computer Science Major at Florida Polytechnic University 
+- Computer Science Graduate from Florida Polytechnic University
 - 🌱 I’m currently learning React & Typescript
 - 🔭 I’m currently working on [Azure Haven Resort](https://github.com/ZeeThomas/azurehavenresort) a React/Typescript website that give users the ultimate booking experience. 
 - I'm looking for Early Career jobs in Software Development, Frontend Development, and Full Stack
