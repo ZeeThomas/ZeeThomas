@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is pronounced ✨*Zahh-ree-ah*✨ But you can call me Zee!
 - Computer Science Graduate from Florida Polytechnic University
-- 🌱 I’m currently learning React & Typescript
-- 🔭 I’m currently working on [Azure Haven Resort](https://github.com/ZeeThomas/azurehavenresort) a React/Typescript website that give users the ultimate booking experience. 
-- I'm looking for Early Career jobs in Software Development, Frontend Development, and Full Stack
+- 🔭 I’m currently working on [Love Is Blind Analysis](https://github.com/ZeeThomas/Love-Is-Blind-Analysis) a multi-part project where I'm looking to find criteria about couples and contestants that make them more successful on the show. 
+- I'm looking for Early Career/Junior jobs in Software Development, Frontend Development,or Data Analytics
 - I'm constantly growing and learning as Software Engineer and I feel like my Github shows my growth and evolution very clearly. Not everything is perfect, but it is progressing every commit at a time. 
 
 
